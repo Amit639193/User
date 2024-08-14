@@ -6,13 +6,13 @@ if os.path.exists("local.env"):
     load_dotenv("local.env")
 
 
-API_ID = int(getenv("API_ID", "22138812")) #optional
-API_HASH = getenv("API_HASH", "83f6908fe0c90bf7a6586be34939a170") #optional
+API_ID = int(getenv("API_ID", "29700858")) #optional
+API_HASH = getenv("API_HASH", "2678024082871bdbf8c822e0fe63877c") #optional
 
-SUDO_USERS = list(map(int, getenv("SUDO_USERS", "1841914911 7374966263").split()))
-OWNER_ID = int(getenv("OWNER_ID", "7374966263"))
-MONGO_URL = getenv("MONGO_URL")
-BOT_TOKEN = getenv("BOT_TOKEN", "7218597033:AAFKZwZN7FoUiSJtTvaBkEIrLfFz0XVZsjU")
+SUDO_USERS = list(map(int, getenv("SUDO_USERS", "6746345687").split()))
+OWNER_ID = int(getenv("OWNER_ID", "6369672953"))
+MONGO_URL = getenv("MONGO_URL")6369672953").split()))
+BOT_TOKEN = getenv("BOT_TOKEN", "7233292173:AAGyUcjmbnZRkseHlOO3pl3J9ahkyYw71Nc").split()))fFz0XVZsjU")
 ALIVE_PIC = getenv("ALIVE_PIC", 'https://telegra.ph/file/91c6683a0074d9dce03c1.jpg')
 ALIVE_TEXT = getenv("ALIVE_TEXT")
 PM_LOGGER = getenv("PM_LOGGER")
