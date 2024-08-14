@@ -10,12 +10,17 @@
 
 ## YOU NEED
 ENV
-
+<br>
 `STRING_SESSION1` TELE SESSION
+<br>
 `SUDO_USERS` Sudo Users Separate By Space
-`OWNER_ID` Owner Id
-`BOT_TOKEN` Bot Token
-`MONGO_URL` MONGO DB URI
+<br>
+`OWNER_ID` Owner Id 
+<br>
+`BOT_TOKEN` Bot Token 
+<br>
+`MONGO_URL` MONGO DB URI 
+<br>
 
 
 
