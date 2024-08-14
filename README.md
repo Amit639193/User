@@ -9,7 +9,15 @@
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
 ## YOU NEED
+```ENV
 
+`STRING_SESSION1`
+`SUDO_USERS`
+`OWNER_ID`
+`BOT_TOKEN`
+`MONGO_URL`
+
+```
 
 
 
