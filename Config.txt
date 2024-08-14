@@ -15,7 +15,7 @@ ALIVE_TEXT = None
 PM_LOGGER = None
 LOG_GROUP = None
 GIT_TOKEN = None #personal access token
-REPO_URL = "https://github.com/mrxbroken011/Absir"
+REPO_URL = "https://github.com/Amit639193/user"
 BRANCH = "master" #don't change
  
 STRING_SESSION1 = ""
