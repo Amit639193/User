@@ -58,13 +58,13 @@ async def alive_function(message: Message, answers):
 <b> • Pyrogram Version :</b> <code>{pyrover}</code>
 <b> • Bot Uptime :</b> <code>{uptime}</code>
 
-<b> — Bot version: 2.0</b> \n\n BY @BrokenxNetwork
+<b> — Bot version: 2.0</b> \n\n BY @KGF_ROKY
 """
     answers.append(
         InlineQueryResultArticle(
             title="Alive",
             description="Check Bot's Stats",
-            thumb_url="https://telegra.ph/file/91c6683a0074d9dce03c1.jpg",
+            thumb_url="https://graph.org/file/50071d0f08f0009ea9553.jpg",
             input_message_content=InputTextMessageContent(
                 msg, parse_mode=ParseMode.HTML, disable_web_page_preview=True
             ),
